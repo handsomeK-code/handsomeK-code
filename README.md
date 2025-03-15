@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=C,python,js,html,css,nextjs,firebase,supabase,github,react,ts,mysql,swift" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,python,js,html,css,nextjs,firebase,supabase,github,react,ts,mysql,swift" />

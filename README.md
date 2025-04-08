@@ -8,11 +8,13 @@
   height="150px" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=X13467980&layout=compact&show_icons=true&theme=onedark" 
 />
+<!--
 <img 
   alt="GitHub Stats" 
   height="150px" 
   src="https://github-readme-stats.vercel.app/api?username=X13467980&theme=onedark&show_icons=true" 
 />
+-->
 
 ## Skills
 

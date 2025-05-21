@@ -20,7 +20,7 @@
 ## Skills
 
 <!-- Languages & Tools -->
-[![Languages](https://skillicons.dev/icons?i=python,swift,c,cpp,cs,matlab,latex,html,css,js,ts,react,nextjs,fastapi&theme=dark)](https://skillicons.dev)  
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,firebase,supabase,postgres,mysql,unity&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,rails,ruby,swift,c,cpp,cs,matlab,html,css,js,ts,react,nextjs,fastapi&theme=dark)](https://skillicons.dev)  
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,latex,postman,firebase,supabase,postgres,mysql,unity&theme=dark)](https://skillicons.dev)
 
 </div>

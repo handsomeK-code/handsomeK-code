@@ -5,6 +5,7 @@
 <!-- GitHub Stats -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=X13467980&theme=dark)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=X13467980&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=X13467980&theme=dark)
 
 <img 
   alt="Top Langs" 

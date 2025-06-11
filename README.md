@@ -3,6 +3,9 @@
 # Hi there 👋
 
 <!-- GitHub Stats -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=X13467980&theme=dark)
+
 <img 
   alt="Top Langs" 
   height="150px" 

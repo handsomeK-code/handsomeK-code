@@ -57,6 +57,6 @@
 [![Languages](https://skillicons.dev/icons?i=python,rails,ruby,swift,c,cpp,cs,matlab,html,css,js,ts,react,nextjs,fastapi&theme=dark)](https://skillicons.dev)
 
 <!-- Tools -->
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,latex,postman,firebase,supabase,postgres,mysql,unity&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,docker,latex,postman,firebase,supabase,postgres,mysql,unity&theme=dark)](https://skillicons.dev)
 
 </div>

@@ -15,33 +15,46 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
+<defs>
+  <clipPath id="asciiClip">
+    <!-- left column: x=15, width ~360, height = your SVG height -->
+    <rect x="15" y="0" width="360" height="530"/>
+  </clipPath>
+</defs>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">           g@M%@%%@N%Nw,,                   </tspan>
-<tspan x="15" y="50">        ,M*|`||*%gNM=]mM%g||%N,             </tspan>
-<tspan x="15" y="70">       p!``  '! |''` '''|||jhlj%w           </tspan>
-<tspan x="15" y="90">     ,@L `    ,,        ''!`|j%M]%M         </tspan>
-<tspan x="15" y="110">    ]j'` .,wp@pw,    `.     ''''|%Wg       </tspan>
-<tspan x="15" y="130">  /{||]@@@@@@@@@pp.             |||||      </tspan>
-<tspan x="15" y="150"> '` ']@@@@@@@@@@@@@@p     , ,'''` `        </tspan>
-<tspan x="15" y="170">  , :]%%@@@@@%%%%%%k%h '*||mkr     *       </tspan>
-<tspan x="15" y="190">  '  j%M`      |jkk'   ~nrn=|i    ;`       </tspan>
-<tspan x="15" y="210">   !  jrr*^`             `"!  L'':!   </tspan>
-<tspan x="15" y="230">    j  lp;,.  ,/ @@    ,;\nmy "  ,~   </tspan>
-<tspan x="15" y="250">   i r @@@@mmHM @@@@ `^****M*,p ;,         </tspan>
-<tspan x="15" y="270">   | ]@@@@HHH]g@M%%%%%H,jmgpmb%  j         </tspan>
-<tspan x="15" y="290">    ;;%%%%%k%@[,.n|;.;j%%k|%k%%',[         </tspan>
-<tspan x="15" y="310">     H|%%k%%%j%k||,;;j;!!'|%ij}]@          </tspan>
-<tspan x="15" y="330">     "djjmkL,"]][,,,,wwxw;|#kjk` </tspan>
-<tspan x="15" y="350">       %;%km%%%%M%M|%%jkkii|||[            </tspan>
-<tspan x="15" y="370">        kjj%%kkkl|!||||||j|||"        </tspan>
-<tspan x="15" y="390">         |jm%H@@@b%%kkmk%i|!,[             </tspan>
-<tspan x="15" y="410">         @p|j%%%%jkk|||j*'`;j[             </tspan>
-<tspan x="15" y="430">        ]@@@g|'''`'''  ` ,;j%k             </tspan>
-<tspan x="15" y="450">        @@@@@mgmp;,,,,:;jj%%k%             </tspan>
-<tspan x="15" y="470">       @@@@@@@@%%kgki!|jjjj%k%@ .          </tspan>
-<tspan x="15" y="490">. ^['' %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
-<tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%".   `'i</tspan>
+<text x="15" y="30" fill="#c9d1d9" class="ascii" clip-path="url(#asciiClip)">
+  <tspan x="15" y="30">                                                                                </tspan>
+  <tspan x="15" y="45">                                                                                </tspan>
+  <tspan x="15" y="60">                                                                                </tspan>
+  <tspan x="15" y="75">                                                                                </tspan>
+  <tspan x="15" y="90">                                                                                </tspan>
+  <tspan x="15" y="105">             .....                                                              </tspan>
+  <tspan x="15" y="120">            .......                                                             </tspan>
+  <tspan x="15" y="135">           .........                                                            </tspan>
+  <tspan x="15" y="150">           ...........                                                          </tspan>
+  <tspan x="15" y="165">          ....''',;,,..                                                         </tspan>
+  <tspan x="15" y="180">         ....'''',,,'''........   ........ .... .                               </tspan>
+  <tspan x="15" y="195">         ......'''''',;;;'.. ......................                             </tspan>
+  <tspan x="15" y="210">..       .',,,;;;;:;,;;:::;'..        .......................                   </tspan>
+  <tspan x="15" y="225">;..     .';::::::::;,;::c:::;'..        ......................                  </tspan>
+  <tspan x="15" y="240">;,..... .,cc::::c:;,',;:::::::;'..        ..............................        </tspan>
+  <tspan x="15" y="255">.,,......;cc::::::;'...';::::cc::,'..        ....  .......................      </tspan>
+  <tspan x="15" y="270"> ........,:cc:::::;'...',;::cc:::c::;'....          ....... ...............     </tspan>
+  <tspan x="15" y="285"> ........,::ccccc::;;,,,;:::c::::cccc::;,,'...        ......................    </tspan>
+  <tspan x="15" y="300">.........,:::::cccc:::::cc:::::ccc:::ccccc:;;'....      .       ...........     </tspan>
+  <tspan x="15" y="315">.........':::;;::::::::::::::::::::::::::c::::::;..              .......        </tspan>
+  <tspan x="15" y="330">.........':::::;,;::::::::::::::cc::::::::::::cc:'.                             </tspan>
+  <tspan x="15" y="345">::::,....':cc::;,,,;:::;;;;;::::::;;;;;;;::::::::'.                             </tspan>
+  <tspan x="15" y="360">0000d;....,cccc:;'.',;;;;;;:::::::::::::::::::::;,.......                       </tspan>
+  <tspan x="15" y="375">KKKK0x:'..';cc::::;:::ccc:::;;;:cccccccccc:::::ccccc:;;,,''...................',</tspan>
+  <tspan x="15" y="390">KKKKK0x:,,;:cccccccc:::;;;,,,;::ccccccc::::::::cclolcccccc:::::;;,,,''.......';:</tspan>
+  <tspan x="15" y="405">K0Okxdolccccccccc::;,,''',;;:cccccccc:::::cccccccccccccccccccccccccccc::::;;;;,;</tspan>
+  <tspan x="15" y="420">kdolllllcccccc:;,,''''',;:ccccccccc::::cccccccccccc::ccccccccccccccccccccccccc:,</tspan>
+  <tspan x="15" y="435">llllllllllcc:;''''''',::ccccccccc::::ccccccccccc:;,,;:cccccccccccccccccccccccc:,</tspan>
+  <tspan x="15" y="450">'clllllllllcc;,''''',:ccccccccc::::cccccccccc:;;,''';:cccccccccccccccccccccccc:,</tspan>
+  <tspan x="15" y="465"> .:llloodxkOxc,,''''',;;;;:::;,,:ccccccccc::;,'...',;;;:cccccccccccccccccccllc;,</tspan>
+  <tspan x="15" y="480">  .cxkO0KKKKkc,,'''''''''''''''',;:::::::;,''......''',:cccccccccllllllc::lllc;,</tspan>
+  <tspan x="15" y="495">   ;OKKKKKKKx:,,'''''''...''''''''',,,,''''''.'''''''';ccccccccllllllll:;:lllc;;</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">HandsomeK</tspan> -———————————————————————————————————————————-—-

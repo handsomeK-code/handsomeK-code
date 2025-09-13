@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg"
+     font-family="ConsolasFallback,Consolas,monospace"
+     font-size="16px"
+     width="100%"
+     viewBox="0 0 1350 530"
+     preserveAspectRatio="xMinYMin meet">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -21,7 +26,7 @@ text, tspan {white-space: pre;}
     <rect x="15" y="0" width="360" height="530"/>
   </clipPath>
 </defs>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<rect width="1350px" height="530px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii" clip-path="url(#asciiClip)">
   <tspan x="15" y="30">                                                                                </tspan> 
   <tspan x="15" y="45">                                                                                </tspan> 
